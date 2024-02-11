@@ -1,3 +1,6 @@
+#include <string>
+#include <cstdlib>
+
 class Skill{
 public:
     Skill();
